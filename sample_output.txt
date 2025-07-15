@@ -1,0 +1,1 @@
+"Patient ID: 104; Procedure: Cardiac MRI; Amount: $1450.00; Department: Radiology; Insurance: Yes"
